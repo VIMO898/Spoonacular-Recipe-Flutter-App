@@ -1,0 +1,119 @@
+[
+    {
+      "name": "Make the pastry",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Place the cut up butter pieces in the freezer for 15 minutes to chill. Meanwhile, in the work bowl of a food processor combine flour, sugar, dry mustard, salt and cayenne pepper. Pulse to combine. After the butter has chilled, scatter the pieces over the flour mixture (still in the food processor), along with the cheddar. Pulse about 10 times.",
+          "ingredients": [
+            {
+              "id": 2031,
+              "name": "cayenne pepper",
+              "localizedName": "cayenne pepper",
+              "image": "chili-powder.jpg"
+            },
+            {
+              "id": 1002024,
+              "name": "mustard powder",
+              "localizedName": "mustard powder",
+              "image": "dry-mustard.jpg"
+            },
+            {
+              "id": 1009,
+              "name": "cheddar cheese",
+              "localizedName": "cheddar cheese",
+              "image": "cheddar-cheese.png"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404771,
+              "name": "food processor",
+              "localizedName": "food processor",
+              "image": "https://spoonacular.com/cdn/equipment_100x100/food-processor.png"
+            },
+            {
+              "id": 404783,
+              "name": "bowl",
+              "localizedName": "bowl",
+              "image": "https://spoonacular.com/cdn/equipment_100x100/bowl.jpg"
+            }
+          ],
+          "length": {
+            "number": 15,
+            "unit": "minutes"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Rolling out the crust, filling & baking the pot pies",
+      "steps": [
+        {
+          "number": 1,
+          "step": "Remove the dough from the refrigerator 10 minutes before rolling it out.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "dough",
+              "localizedName": "dough",
+              "image": "pizza-dough"
+            }
+          ],
+          "equipment": [],
+          "length": {
+            "number": 10,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 2,
+          "step": "Roll the dough out on a well-floured surface, large enough to cut out 3, 7-inch circles out of each half (save the scraps). Line each cup of a large-sized muffin tin with the dough. (It won't look very pretty, you just kind of have your way with it to get it pressed in there.) Refrigerate the filled tins as well as the dough scraps 15 minutes to firm back up.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "dough",
+              "localizedName": "dough",
+              "image": "pizza-dough"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404671,
+              "name": "muffin tray",
+              "localizedName": "muffin tray",
+              "image": "https://spoonacular.com/cdn/equipment_100x100/muffin-tray.jpg"
+            }
+          ],
+          "length": {
+            "number": 15,
+            "unit": "minutes"
+          }
+        },
+        {
+          "number": 3,
+          "step": "Meanwhile, preheat oven to 400 degrees. After 15 minutes and the filling has cooled down quite a bit. Divide the mixture evenly between crusts. Divide the remaining dough into 6 balls.",
+          "ingredients": [
+            {
+              "id": 0,
+              "name": "dough",
+              "localizedName": "dough",
+              "image": "pizza-dough"
+            }
+          ],
+          "equipment": [
+            {
+              "id": 404784,
+              "name": "oven",
+              "localizedName": "oven",
+              "image": "https://spoonacular.com/cdn/equipment_100x100/oven.jpg"
+            }
+          ],
+          "length": {
+            "number": 15,
+            "unit": "minutes"
+          }
+        }
+      ]
+    }
+  ]

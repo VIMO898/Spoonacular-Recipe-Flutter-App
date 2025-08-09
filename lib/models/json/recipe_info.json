@@ -1,0 +1,150 @@
+{
+    "id": 638917,
+    "image": "https://img.spoonacular.com/recipes/638917-556x370.jpg",
+    "imageType": "jpg",
+    "title": "Chocolate Chip Coconut Muffins",
+    "readyInMinutes": 45,
+    "servings": 12,
+    "sourceUrl": "https://www.foodista.com/recipe/SM62VQWH/chocolate-chip-coconut-muffins",
+    "vegetarian": false,
+    "vegan": false,
+    "glutenFree": true,
+    "dairyFree": true,
+    "veryHealthy": false,
+    "cheap": false,
+    "veryPopular": false,
+    "sustainable": false,
+    "lowFodmap": true,
+    "weightWatcherSmartPoints": 11,
+    "gaps": "no",
+    "preparationMinutes": null,
+    "cookingMinutes": null,
+    "aggregateLikes": 10,
+    "healthScore": 0.0,
+    "creditsText": "foodista.com",
+    "license": null,
+    "sourceName": "foodista.com",
+    "pricePerServing": 71.37,
+    "extendedIngredients": [
+      {
+        "id": 93746,
+        "name": "coconut butter",
+        "image": "oil-coconut.jpg",
+        "aisle": "Health Foods",
+        "consistency": "SOLID",
+        "nameClean": "coconut butter",
+        "original": "1/2 cup coconut butter",
+        "originalName": "coconut butter",
+        "amount": 0.5,
+        "unit": "cup",
+        "meta": [],
+        "measures": {
+          "us": {
+            "amount": 0.5,
+            "unitShort": "cups",
+            "unitLong": "cups"
+          },
+          "metric": {
+            "amount": 80.0,
+            "unitShort": "ml",
+            "unitLong": "milliliters"
+          }
+        }
+      },
+      {
+        "id": 1123,
+        "aisle": "Milk, Eggs, Other Dairy",
+        "image": "egg.png",
+        "consistency": "SOLID",
+        "name": "eggs",
+        "nameClean": "egg",
+        "original": "2 large eggs",
+        "originalName": "eggs",
+        "amount": 2.0,
+        "unit": "large",
+        "meta": [],
+        "measures": {
+          "us": {
+            "amount": 2.0,
+            "unitShort": "large",
+            "unitLong": "larges"
+          },
+          "metric": {
+            "amount": 2.0,
+            "unitShort": "large",
+            "unitLong": "larges"
+          }
+        }
+      },
+      {
+        "id": 93607,
+        "aisle": "Milk, Eggs, Other Dairy",
+        "image": "almond-milk.png",
+        "consistency": "LIQUID",
+        "name": "almond milk",
+        "nameClean": "almond milk",
+        "original": "1 cup almond milk (or any other vegan milk)",
+        "originalName": "almond milk (or any other vegan milk)",
+        "amount": 1.0,
+        "unit": "cup",
+        "meta": [
+          "or any other vegan milk)"
+        ],
+        "measures": {
+          "us": {
+            "amount": 1.0,
+            "unitShort": "cup",
+            "unitLong": "cup"
+          },
+          "metric": {
+            "amount": 250.0,
+            "unitShort": "ml",
+            "unitLong": "milliliters"
+          }
+        }
+      }
+    ],
+    "summary": "The recipe Chocolate Chip Coconut Muffins can be made <b>in roughly 45 minutes</b>. This gluten free, dairy free, and fodmap friendly recipe serves 12 and costs <b>71 cents per serving</b>. This breakfast has <b>263 calories</b>, <b>5g of protein</b>, and <b>11g of fat</b> per serving. A few people made this recipe, and 10 would say it hit the spot. It is brought to you by Foodista. A mixture of sucanat, coconut flakes, almond milk, and a handful of other ingredients are all it takes to make this recipe so scrumptious. All things considered, we decided this recipe <b>deserves a spoonacular score of 29%</b>. This score is not so great. If you like this recipe, you might also like recipes such as <a href=\"https://spoonacular.com/recipes/chocolate-chip-muffins-with-coconut-streusel-53777\">Chocolate Chip Muffins With Coconut Streusel</a>, <a href=\"https://spoonacular.com/recipes/banana-chocolate-chip-coconut-muffins-626620\">Banana Chocolate Chip Coconut Muffins</a>, and <a href=\"https://spoonacular.com/recipes/vegan-chocolate-chip-coconut-muffins-1410845\">Vegan Chocolate Chip Coconut Muffins</a>.",
+    "cuisines": [],
+    "dishTypes": [
+      "morning meal",
+      "brunch",
+      "breakfast"
+    ],
+    "diets": [
+      "gluten free",
+      "dairy free",
+      "fodmap friendly"
+    ],
+    "occasions": [],
+    "instructions": "Go to my blog for the full instructions: http://gourmandelle.com/chocolate-chip-coconut-muffins/",
+    "analyzedInstructions": [
+      {
+        "name": "",
+        "steps": [
+          {
+            "number": 1,
+            "step": "Go to my blog for the full instructions: http://gourmandelle.com/chocolate-chip-coconut-muffins/",
+            "ingredients": [
+              {
+                "id": 19081,
+                "name": "chocolate",
+                "localizedName": "chocolate",
+                "image": "milk-chocolate.jpg"
+              },
+              {
+                "id": 12104,
+                "name": "coconut",
+                "localizedName": "coconut",
+                "image": "https://spoonacular.com/cdn/ingredients_100x100/coconut.jpg"
+              }
+            ],
+            "equipment": []
+          }
+        ]
+      }
+    ],
+    "originalId": null,
+    "spoonacularScore": 5.636958599090576,
+    "spoonacularSourceUrl": "https://spoonacular.com/chocolate-chip-coconut-muffins-638917"
+  }

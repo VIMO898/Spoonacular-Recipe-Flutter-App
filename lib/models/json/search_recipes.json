@@ -1,0 +1,19 @@
+{
+    "results": [
+      {
+        "id": 658615,
+        "title": "Roasted Peppers, Spinach & Feta Pizza",
+        "image": "https://img.spoonacular.com/recipes/658615-312x231.jpg",
+        "imageType": "jpg"
+      },
+      {
+        "id": 658920,
+        "title": "Rustic Grilled Peaches Pizza",
+        "image": "https://img.spoonacular.com/recipes/658920-312x231.jpg",
+        "imageType": "jpg"
+      }
+    ],
+    "offset": 0,
+    "number": 2,
+    "totalResults": 38
+  }

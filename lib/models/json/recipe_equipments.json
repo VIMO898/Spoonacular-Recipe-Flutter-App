@@ -1,0 +1,32 @@
+{
+    "equipment": [
+      {
+        "name": "food processor",
+        "image": "food-processor.png"
+      },
+      {
+        "name": "paper towels",
+        "image": "paper-towels.jpg"
+      },
+      {
+        "name": "plastic wrap",
+        "image": "plastic-wrap.jpg"
+      },
+      {
+        "name": "muffin tray",
+        "image": "muffin-tray.jpg"
+      },
+      {
+        "name": "oven",
+        "image": "oven.jpg"
+      },
+      {
+        "name": "bowl",
+        "image": "bowl.jpg"
+      },
+      {
+        "name": "pot",
+        "image": "stock-pot.jpg"
+      }
+    ]
+  }
